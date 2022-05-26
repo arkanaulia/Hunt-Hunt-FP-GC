@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a62ff797-e1fe-4a9e-939e-b3c8bd7b8002" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/documentation/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/appendicies/Access to supplementary material.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/appendicies/Git Log.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/appendicies/Installation Document and User Guide.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/images/casestudy-graphic-cul.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/latex/front_page.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/latex/front_page.synctex.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/latex/front_page.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.the-game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.the-game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AI/FSM/FSM.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AI/FSM/FSM.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AI/FSM/FSMState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AI/FSM/FSMState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AI/GOAP/GoapAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AI/GOAP/GoapAction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AI/GOAP/GoapAgent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AI/GOAP/GoapAgent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AI/GOAP/GoapPlanner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AI/GOAP/GoapPlanner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AI/GOAP/IGoap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AI/GOAP/IGoap.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AI/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AI/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/TODO.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/TODO.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/latex/project.aux" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/latex/project.aux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/latex/project.log" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/latex/project.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/latex/project.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/latex/project.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/latex/project.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/latex/project.synctex.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/latex/project.tex" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/latex/project.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/latex/project.toc" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/latex/project.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC77650D-0349-4034-8F31-3461908BD465/d7/7e895d1c/Animator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/351E49E2-A5BF-4FD6-BEAB-B458CE2255F3/3d/24c944f9/HashSet`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FoodChain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Attack/ArrowAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C329B191-02C4-4F90-9872-5BD81AAF841F/35/f94fda6d/UnitySynchronizationContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stats/FoodStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/99258562-0D64-4271-98DD-F3A0E1467733/3b/cd73e976/NotImplementedException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9577AC7A-62EF-4317-9789-031239BA8798/20/6f3a823d/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7599570-39B4-4A01-90B1-110FDFE3030F/bb/8d9a74a4/Action.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C329B191-02C4-4F90-9872-5BD81AAF841F/64/c8506b00/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C329B191-02C4-4F90-9872-5BD81AAF841F/2d/a19fc951/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file:///Applications/Unity/Hub/Editor/2019.4.19f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AF2FD80C-88E0-4691-A6E2-21175E1DAE57/87/a87f388b/Rigidbody.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/99258562-0D64-4271-98DD-F3A0E1467733/55/123dd69c/HashSet`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Creatures/RandomlyCallFindFood.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Attack/Arrow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Creatures/Actions/Action_FindFood.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Creatures/Agents/Sloth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Creatures/Actions/Action_EatFood.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AF2FD80C-88E0-4691-A6E2-21175E1DAE57/2d/58f5e3bd/RaycastHit.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AStarMovement.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI/GAgentVisual.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SwordCollision.cs" />
+      <option value="$PROJECT_DIR$/Assets/RagdollToggle.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Creatures/Fly.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Creatures/Lizard.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Creatures/BaseCreature.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ArrowAttack.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/FoodStats.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerEatFood.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Creatures/Sabertooth.cs" />
+      <option value="$PROJECT_DIR$/Assets/RandomlyRoam.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Arrow.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Stats.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Creatures/Sloth.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SwordAttack.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/InPlaceOfPlayer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/StatsUIController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/RagdollToggle.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/KeepOnFloor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Creatures/Actions/Action_MeleeAttack.cs" />
+      <option value="$PROJECT_DIR$/Assets/PlayerStatsUi.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSpawn.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Creatures/FinishEating.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Creatures/RagdollToggle.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Creatures/RandomlyCallFindFood.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Creatures/Agents/Sabertooth.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Stats/FoodStats.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Stats/StatsUIController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AStarMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/FoodChain.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerEatFood.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/MouseLook.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Attack/Arrow.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Attack/ArrowAttack.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Attack/SwordAttack.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Stats/Stats.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Creatures/Actions/Action_EatFood.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Stats/Food.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Creatures/BaseAIGoap.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Creatures/Actions/Action_Roam.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Creatures/Agents/Sloth.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Creatures/RandomlyRoam.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Creatures/Actions/Action_FindFood.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI/GOAP/GoapPlanner.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI/GOAP/IGoap.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI/GOAP/GoapAgent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI/GOAP/GoapAction.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI/FSM/FSM.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI/FSM/FSMState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI/README.md" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1nqDH9RbKCaths3dqmALE3xCfzt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.17974684" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="XThreadsFramesViewSplitterKey" value="0.75" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../TESTING/Build 6th April URP/Mac.app/Contents/MacOS/Ai Test" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TESTING/Build 6th April URP/Mac.app/Contents/MacOS" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a62ff797-e1fe-4a9e-939e-b3c8bd7b8002" name="Default Changelist" comment="" />
+      <created>1612108639390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612108639390</updated>
+      <workItem from="1612108647860" duration="2247000" />
+      <workItem from="1612309849765" duration="6846000" />
+      <workItem from="1612538086713" duration="3465000" />
+      <workItem from="1612640842617" duration="6381000" />
+      <workItem from="1612697657148" duration="5939000" />
+      <workItem from="1612741809972" duration="3081000" />
+      <workItem from="1613145125667" duration="657000" />
+      <workItem from="1613413812214" duration="5065000" />
+      <workItem from="1613499679394" duration="2206000" />
+      <workItem from="1613503014668" duration="180000" />
+      <workItem from="1613503631033" duration="887000" />
+      <workItem from="1613505760569" duration="5698000" />
+      <workItem from="1613560700933" duration="638000" />
+      <workItem from="1613573835003" duration="443000" />
+      <workItem from="1613591551503" duration="2142000" />
+      <workItem from="1613652211681" duration="4792000" />
+      <workItem from="1613736718536" duration="5875000" />
+      <workItem from="1613856931437" duration="3479000" />
+      <workItem from="1613904728018" duration="9923000" />
+      <workItem from="1613994944285" duration="7179000" />
+      <workItem from="1614253322041" duration="1245000" />
+      <workItem from="1614605087020" duration="3380000" />
+      <workItem from="1614691758486" duration="5301000" />
+      <workItem from="1614701035150" duration="51000" />
+      <workItem from="1614701100406" duration="18000" />
+      <workItem from="1614701302089" duration="1076000" />
+      <workItem from="1614775170117" duration="112000" />
+      <workItem from="1614783180535" duration="13136000" />
+      <workItem from="1614959136251" duration="4264000" />
+      <workItem from="1615051059761" duration="2876000" />
+      <workItem from="1615142173190" duration="78000" />
+      <workItem from="1615529084785" duration="12676000" />
+      <workItem from="1616006710682" duration="3650000" />
+      <workItem from="1616069192323" duration="5427000" />
+      <workItem from="1616159194605" duration="787000" />
+      <workItem from="1617044452418" duration="480000" />
+      <workItem from="1617215314216" duration="3407000" />
+      <workItem from="1617272223271" duration="273000" />
+      <workItem from="1617454983966" duration="5750000" />
+      <workItem from="1617546542673" duration="10243000" />
+      <workItem from="1617625541723" duration="12808000" />
+      <workItem from="1617671096814" duration="963000" />
+      <workItem from="1617726100596" duration="6421000" />
+      <workItem from="1617807635163" duration="5218000" />
+      <workItem from="1617888370239" duration="9106000" />
+      <workItem from="1617974276937" duration="528000" />
+      <workItem from="1617975017096" duration="1413000" />
+      <workItem from="1617989861440" duration="2336000" />
+      <workItem from="1618247079715" duration="4375000" />
+      <workItem from="1618307897844" duration="1649000" />
+      <workItem from="1618392753171" duration="3673000" />
+      <workItem from="1618509904302" duration="5216000" />
+      <workItem from="1618576855432" duration="816000" />
+      <workItem from="1618577746500" duration="55000" />
+      <workItem from="1618577819049" duration="122000" />
+      <workItem from="1618577986826" duration="3555000" />
+      <workItem from="1618752365199" duration="3024000" />
+      <workItem from="1619001849490" duration="4017000" />
+      <workItem from="1619221031086" duration="150000" />
+      <workItem from="1619233602798" duration="260000" />
+      <workItem from="1619280187521" duration="1902000" />
+      <workItem from="1619356855540" duration="2813000" />
+      <workItem from="1619526596545" duration="1870000" />
+      <workItem from="1619704828310" duration="8900000" />
+      <workItem from="1619783225884" duration="6369000" />
+      <workItem from="1619869730296" duration="1390000" />
+      <workItem from="1619965272494" duration="332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Assets/ReGoap" />
+      <path value="$PROJECT_DIR$/Assets/Scripts/ReGoap" />
+    </ignored-roots>
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
